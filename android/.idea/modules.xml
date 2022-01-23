@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PlayLibProject.iml" filepath="$PROJECT_DIR$/.idea/modules/PlayLibProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PlayLibProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PlayLibProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/playlib/PlayLibProject.playlib.iml" filepath="$PROJECT_DIR$/.idea/modules/playlib/PlayLibProject.playlib.iml" />
+    </modules>
+  </component>
+</project>
