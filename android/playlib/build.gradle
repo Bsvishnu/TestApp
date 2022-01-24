@@ -43,5 +43,6 @@ dependencies {
     implementation "org.webkit:android-jsc:+"
 }
 //apply from: file("../../node_modules/@react-native-community/cli-platform-android/native_modules.gradle");
-apply from: file("../../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesAppBuildGradle(project)
+apply from: file("../../node_modules/@react-native-community/cli-platform-android/native_modules.gradle");
+applyNativeModulesAppBuildGradle(project)
 apply from: file("publish.gradle")
